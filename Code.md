@@ -16,3 +16,13 @@ also code
 more code
 
 ```
+
+For code highlighting, only add the name of the language after the triple backticks ( \` \` \` ):
+
+``` Java
+
+public static void main(String[] args) {
+  System.out.println("Hello World!");
+}
+
+```
